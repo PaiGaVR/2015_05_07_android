@@ -12,5 +12,7 @@
     <string name="title_activity_get_orders">GetOrdersActivity</string>
     <string name="title_activity_read_orders">ReadOrdersActivity</string>
     <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_slider">SliderActivity</string>
+    <string name="title_activity_init">InitActivity</string>
 
 </resources>

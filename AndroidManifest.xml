@@ -38,6 +38,14 @@
             android:name="com.example.com.android.test.SettingActivity"
             android:label="@string/title_activity_setting" >
         </activity>
+        <activity
+            android:name="com.example.com.android.test.SliderMenu"
+            android:label="@string/title_activity_slider" >
+        </activity>
+        <activity
+            android:name="com.example.com.android.test.InitActivity"
+            android:label="@string/title_activity_init" >
+        </activity>
     </application>
 
 </manifest>
