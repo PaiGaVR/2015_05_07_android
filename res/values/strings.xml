@@ -7,11 +7,11 @@
     <string name="get_orders_text">接单</string>
     <string name="read_orders_text">查单</string>
     <string name="setting_text">设置</string>
-    <string name="title_activity_push_orders">PushOrdersActivity</string>
+    <string name="title_activity_push_orders">下单</string>
     <string name="hello_world">Hello world!</string>
-    <string name="title_activity_get_orders">GetOrdersActivity</string>
-    <string name="title_activity_read_orders">ReadOrdersActivity</string>
-    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_get_orders">接单</string>
+    <string name="title_activity_read_orders">查单</string>
+    <string name="title_activity_setting">设置</string>
     <string name="title_activity_slider">SliderActivity</string>
     <string name="title_activity_init">InitActivity</string>
 

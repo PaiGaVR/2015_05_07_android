@@ -2,12 +2,11 @@
 <resources>
 
     <attr name="rightPadding" format="dimension" />
+    <attr name="myRadioGroup" format="dimension"/>
 
     <declare-styleable name="SlidingMenu">
         <attr name="rightPadding" />
     </declare-styleable>
-    
-    <attr name="myRadioGroup" format="dimension"/>
     
     <declare-styleable name="MyRadioGroup">
         <attr name="myRadioGroup" />

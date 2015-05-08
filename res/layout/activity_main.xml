@@ -15,6 +15,6 @@
 
         <include layout="@layout/layout_menu" />
 
-        <include layout="@layout/activity_init" />
+        <include layout="@layout/orders_layout" />
     </LinearLayout>
 </com.example.com.android.test.SlidingMenu>
